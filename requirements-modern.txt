@@ -11,7 +11,7 @@ python-multipart==0.0.6       # Form data parsing
 # ============================================================================
 # ASYNC & CONCURRENCY
 # ============================================================================
-asyncio-contextmanager==1.0.0  # Async context managers
+asyncio-contextmanager==1.0.1  # Async context managers
 aioredis==2.0.1               # Async Redis client
 asyncpg==0.29.0               # Async PostgreSQL
 aiohttp==3.9.1                # Async HTTP client
