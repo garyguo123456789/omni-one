@@ -95,7 +95,7 @@ requests-oauthlib==1.4.0      # OAuth support
 # INTEGRATIONS & CONNECTORS
 # ============================================================================
 slack-sdk==3.27.1             # Slack API SDK
-msal==1.26.0                  # Azure AD authentication
+msal==1.39.0                  # Azure AD authentication
 zeep==4.2.1                   # SOAP web services
 salesforce-bulk==2.2.0        # Salesforce bulk API
 

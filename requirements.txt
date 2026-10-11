@@ -19,7 +19,7 @@ beautifulsoup4==4.12.3
 lxml==5.1.0
 slack-sdk==3.27.1
 requests-oauthlib==1.4.0
-msal==1.26.0
+msal==1.39.0
 zeep==4.2.1
 pymongo==4.6.1
 sqlalchemy==2.0.28
