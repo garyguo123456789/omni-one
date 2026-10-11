@@ -105,7 +105,7 @@ salesforce-bulk==2.2.0        # Salesforce bulk API
 cryptography==42.0.5          # Cryptographic recipes
 bcrypt==4.1.2                 # Password hashing
 PyJWT==2.8.0                  # JWT tokens
-python-jose==3.3.0            # JWT/JWE support
+python-jose==3.5.0            # JWT/JWE support
 
 # ============================================================================
 # SYSTEM & MONITORING
