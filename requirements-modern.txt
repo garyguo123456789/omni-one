@@ -19,7 +19,7 @@ aiohttp==3.9.1                # Async HTTP client
 # ============================================================================
 # DATA VALIDATION & SERIALIZATION (Pydantic v2)
 # ============================================================================
-pydantic==2.5.0               # Data validation and serialization
+pydantic==2.13.5               # Data validation and serialization
 pydantic-settings==2.1.0      # Settings management
 pydantic-core==2.14.0         # Core validation engine
 
