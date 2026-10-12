@@ -28,7 +28,7 @@ pydantic-core==2.14.0         # Core validation engine
 # ============================================================================
 structlog==23.3.0             # Structured logging
 python-json-logger==2.0.7     # JSON logging formatter
-opentelemetry-api==1.20.0     # OpenTelemetry API
+opentelemetry-api==1.45.1     # OpenTelemetry API
 opentelemetry-sdk==1.20.0     # OpenTelemetry SDK
 opentelemetry-exporter-jaeger==1.20.0  # Jaeger tracing
 opentelemetry-instrumentation-fastapi==0.41b0  # FastAPI instrumentation
